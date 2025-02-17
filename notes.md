@@ -37,3 +37,10 @@ x = np.zeros((512,512), dtype = float)
 import numpy as np
 x = np.ones((512,512), dtype = float)
 ```
+
+### Uses of Pandas
+- pandas is used to create the data to deal with external dataset. it also helps to load the external data and perform cleaning of the data, transforming data, and processing of the data.
+- It also helps to perform the statistical analysis of the data.
+
+### Creating a DataFrame
+```python
